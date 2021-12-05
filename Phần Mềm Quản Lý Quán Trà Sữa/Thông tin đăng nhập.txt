@@ -1,3 +1,0 @@
-Username: Admin
-Password: 1906
-link github : https://github.com/nhan1906/qlTraSua
